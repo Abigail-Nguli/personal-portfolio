@@ -215,7 +215,7 @@ article li{
 }
 
 #phone li:hover, #socials li:hover{
-    background: linear-gradient(55deg, #896bdb, #19053c);
+    background: linear-gradient(55deg, #19053c, #896bdb);
 }
 
 #phone a:hover, #socials a:hover{
