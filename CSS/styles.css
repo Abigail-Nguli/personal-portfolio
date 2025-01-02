@@ -119,6 +119,15 @@ main{
     margin: 15px 35px;
     padding: 13px;
     background-color: #7a7a7a;
+    border-radius: 10px;
+}
+
+#projects-info img{
+    border-radius: 10px;
+}
+
+#projects-info button{
+    border-radius: 10px;
 }
 
 #projects-info h3{
